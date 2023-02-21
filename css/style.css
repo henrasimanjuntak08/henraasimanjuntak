@@ -23,7 +23,7 @@ html {
 
 /* menghubungkan tampilan bodi */
 body {
-  font-family: "caveat brush";
+  font-family: "poppins";
   background-color: var(--bg);    
   color: #fff;
 }
